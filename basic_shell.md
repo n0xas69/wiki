@@ -1,8 +1,8 @@
 # Commandes shell basiques
 
 ## input / ouput
-```>``` redirige le STDOUT (standard output)
-```2>``` redirige le STDERR (standard error)
+```>``` redirige le STDOUT (standard output)  
+```2>``` redirige le STDERR (standard error)  
 ```<``` redigire le STDIN (standard input)
 
 
