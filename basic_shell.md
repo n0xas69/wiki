@@ -14,3 +14,13 @@ echo test > fichier.txt
 Redirige dans un fichier à la suite du contenu
 ```bash
 echo test >> fichier.txt
+```
+
+Si on veux qu'une commande ne retourne pas d'erreur, on peu se servir de /dev/null en ridigeant le STDERR dessus :
+```bash
+ls kejfiuf Documents 2> /dev/null
+```
+Dans ce cas le dossier "kejfiuf" n'existe pas, mais la commande ne retournera que "Documents"
+
+
+
