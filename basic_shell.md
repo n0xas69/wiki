@@ -22,5 +22,11 @@ ls kejfiuf Documents 2> /dev/null
 ```
 Dans ce cas le dossier "kejfiuf" n'existe pas, mais la commande ne retournera que "Documents"
 
+Le pipe permet de passer la sortie d'une commande en entré d'une autre commande, ex :
+```bash
+cat fichier.txt | grep test
+```
+
+
 
 
