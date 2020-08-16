@@ -1,4 +1,4 @@
-# Commandes shell basiques
+# Commandes et outils basiques
 
 ## input / ouput
 ```>``` redirige le STDOUT (standard output)  
@@ -34,5 +34,19 @@ Pour le lire il suffit de taper ```history```
 
 la combinaison ```ctrl+r``` permet de chercher et taper une commande déjà effectuer.
 
+## vi / vim
+
+Vi est l'éditeur de text par défaut sur toute les distrib linux, connaître les commandes de bases est important :
+
+```esc``` : basculer en mode commande
+```i``` : basculer en mode insert pour taper du text
+```:n``` : ou n est le numéro de ligne ou placer le curseur
+```dd``` : supprimer la ligne
+```u``` : annule le dernier changement (équivalent ctrl-z)
+```yy``` : copie la ligne
+```p``` : colle la ligne
+```o``` : créer une nouvelle ligne
+```:q!``` : quitte sans sauvegarder
+```:wq``` : quitte en sauvegardant
 
 
