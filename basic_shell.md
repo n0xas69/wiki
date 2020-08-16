@@ -27,6 +27,12 @@ Le pipe permet de passer la sortie d'une commande en entré d'une autre commande
 cat fichier.txt | grep test
 ```
 
+## Historique
+
+Dès qu'un utilisateur ouvre un shell, un fichier .bash_history est créé à la racine de son répertoire home. Il contient l'historique des commandes tapé.
+Pour le lire il suffit de taper ```history```
+
+la combinaison ```ctrl+r``` permet de chercher et taper une commande déjà effectuer.
 
 
 
