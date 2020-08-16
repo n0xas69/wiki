@@ -1,7 +1,7 @@
 # Commandes shell basiques
 
 ## input / ouput
-```bash > ``` redirige le STDOUT (standard output)
+```>``` redirige le STDOUT (standard output)
 
 Redirige dans un fichier, écrase le contenu du fichier
 ```bash
