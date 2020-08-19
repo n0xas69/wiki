@@ -19,3 +19,7 @@ ls /home/noxas
 # affiche sous forme de liste les fichiers de /etc avec les droits
 ls -l /etc
 ```
+
+witch
+locate
+diff
