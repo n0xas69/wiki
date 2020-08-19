@@ -1,4 +1,4 @@
-# Commandes et astuces linux
+# Commandes basiques linux
 
 ### ```cd``` : Se déplacer dans le système
 
@@ -30,3 +30,10 @@ du
 head
 less
 sort
+
+# Astuces
+
+Liste les x fichier les plus gros du répertoire courant
+```bash
+du -a | sort -n -r | head -n 15
+```
