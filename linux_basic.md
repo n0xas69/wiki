@@ -20,6 +20,10 @@ ls /home/noxas
 ls -l /etc
 ```
 
-witch
+which
 locate
 diff
+du
+head
+less
+sort
