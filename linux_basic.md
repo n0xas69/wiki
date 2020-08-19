@@ -24,12 +24,13 @@ ls -l /etc
 ```
 
 which
-locate
 diff
 du
 head
 less
 sort
+grep
+find
 
 # Astuces
 
