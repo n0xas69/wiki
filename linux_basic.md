@@ -1,6 +1,6 @@
 # Commandes et astuces linux
 
-## ```cd``` : Se déplacer dans le système
+### ```cd``` : Se déplacer dans le système
 
 ```bash
 # on se déplace dans le dossier home
@@ -9,7 +9,7 @@ cd /home
 cd /var/log
 ```
 
-## ```ls``` : Lister les dossier/fichier
+### ```ls``` : Lister les dossier/fichier
 
 ```bash
 # affiche les dossiers et fichiers du chemin ou on est situé
