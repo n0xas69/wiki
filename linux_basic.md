@@ -31,6 +31,7 @@ less
 sort
 grep
 find
+watch
 
 # Astuces
 
