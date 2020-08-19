@@ -5,6 +5,7 @@
 ```bash
 # on se déplace dans le dossier home
 cd /home
+
 # on se déplace dans le dossier log
 cd /var/log
 ```
@@ -14,8 +15,10 @@ cd /var/log
 ```bash
 # affiche les dossiers et fichiers du chemin ou on est situé
 ls
+
 # affiche les fichiers de /home/noxas
 ls /home/noxas
+
 # affiche sous forme de liste les fichiers de /etc avec les droits
 ls -l /etc
 ```
